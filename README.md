@@ -15,7 +15,7 @@
   
 - Angular for frontend development.
   
-- The integraation of machine learning (ML) and how I can further my knowledge on concepts such as big data , cloud data engineering and data architecture
+- The integration of machine learning (ML) in order to expand my knowledge on concepts such as big data , cloud data engineering and data architecture
   
 - How to build a booking management and e-commerce system .
 
