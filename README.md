@@ -22,7 +22,7 @@
 
 
 
-  💞️ **I’m looking to collaborate on:**
+  👨‍💻 **I’m looking to collaborate on:**
   
 - on projects that involve leveraging data for impactful decision-making.
 
