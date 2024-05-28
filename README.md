@@ -18,7 +18,7 @@
   
 - McKinsey's Foward Learning Program (McKinsey)
 
-- Data Science Real World Projects In Python ( Udemy)
+- Data Science Projects (Capstone Project)
   
 - Building a booking management and e-commerce system (Capstone Project) .
 
