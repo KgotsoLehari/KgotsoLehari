@@ -1,6 +1,6 @@
  👋 Hi, I’m @KgotsoLehari
 
-  👀 **I’m interested in**
+   **I’m interested in**
   
 -  Data analysis
    
@@ -11,20 +11,18 @@
 
 
 
-  🌱 **I’m currently learning**
+
+   **I’m currently learning**
   
-- Angular for frontend development.
+- AWS Cloud Practitioner Essentials ( Coursera)
   
-- The integration of machine learning (ML) in order to expand my knowledge on concepts such as big data , cloud data engineering and data architecture
+- McKinsey's Foward Learning Program (McKinsey)
+
+- Data Science Real World Projects In Python ( Udemy)
   
-- How to build a booking management and e-commerce system .
+- Building a booking management and e-commerce system (Capstone Project) .
 
 
-
-
-  👨‍💻 **I’m looking to collaborate on:**
-  
-- on projects that involve leveraging data for impactful decision-making.
 
 
 
@@ -36,8 +34,11 @@
 - Phone : 068-283-2756
 
 
+
+
+
   
-  ⚡ **Fun fact:**
+   **Fun fact:**
   
 - I love playing football in my spare time
   
